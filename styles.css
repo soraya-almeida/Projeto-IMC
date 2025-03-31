@@ -2,5 +2,18 @@
     background-color: cornflowerblue;
     text-align: center;
     padding: 25px;
-    margin: 5px;
+    margin: 0;
+
+}
+
+.container {
+    display: block;
+    width: 50%;
+    margin: auto;
+}
+input {
+    display: block;
+    width: 25%;
+    padding: 5px;
+    
 }
