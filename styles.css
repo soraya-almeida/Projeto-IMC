@@ -56,6 +56,10 @@ button {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #resultado {
-    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
     margin-top: 15px;
+    position: relative;
+    top: 100px;
+    font-size: x-large;
 }

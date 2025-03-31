@@ -3,7 +3,7 @@ function calcular() {
     let altura = parseFloat(document.getElementById("altura").value);
     let resultado = document.getElementById("resultado");
     
-}
+
 
 if (isNaN(peso) || isNaN(altura) || altura <= 0) {
     resultado.innerHTML = "Por favor, insira valores válido!";
@@ -30,3 +30,4 @@ if (imc < 18.5) {
 
 resultado.innerHTML = mensagem;
 resultado.styles.color = "black";
+}
